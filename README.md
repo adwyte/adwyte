@@ -19,7 +19,7 @@
 
 <!-- Hero GIF -->
 <p align="center">
-  <img src="assets/coder.gif" alt="Coding animation" width="720">
+  <img src="assets/coder_lofi.gif" alt="Coding animation" width="720">
 </p>
 
 <!-- Thin cyan divider -->
