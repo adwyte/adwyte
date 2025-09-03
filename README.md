@@ -58,7 +58,7 @@
 
 ---
 
-### 🚀 Project Gallery (quick skim)
+### 🚀 Project Gallery
 
 | Project | What it does | Stack |
 |---|---|---|
