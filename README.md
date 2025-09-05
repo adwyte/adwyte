@@ -19,7 +19,7 @@
 
 <!-- Hero GIF -->
 <p align="center">
-  <img src="assets/coder_lofi.gif" alt="Coding animation" width="720">
+  <img src="assets/coder.gif" alt="Coding animation" width="720">
 </p>
 
 <!-- Thin cyan divider -->
@@ -56,16 +56,28 @@
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
 </p>
 
+
 ---
 
-### 🚀 Project Gallery
+### 🚀 Featured Projects
 
 | Project | What it does | Stack |
 |---|---|---|
-| **Digital Twin Platform** | Predictive maintenance for MSME machines with real-time IIoT telemetry and ML | Unity3D · MQTT · MongoDB Atlas · Python |
-| **LLM Debate Arena** | Real-time debate (Human↔AI), argument scoring, STT/NLP, leaderboards | FastAPI · React · PostgreSQL · LLM |
-| **Legacy C → OOP Python** | Parses C, builds call graphs, generates OOP Python modules | Python · regex/cparser · NetworkX · pybind11 |
-| **Home Media Server** | Headless Ubuntu server + Plex/Jellyfin automation | Linux · SSH · Docker |
+| **[Digital Twin Platform](https://github.com/adwyte/4SIGHT)** | Predictive maintenance for MSME machines with real-time IIoT telemetry and ML | Unity3D · MQTT · MongoDB Atlas · Python |
+| **[LLM Debate Arena](https://github.com/adwyte/AI-Debate-Arena)** | Real-time debate platform (Human ↔ AI), speech-to-text, NLP scoring, leaderboards | FastAPI · React · PostgreSQL · LLM |
+| **[Legacy Code Migration Tool](https://github.com/adwyte/Legacy-Migration-Engine)** | Parses procedural C, builds call graphs, generates OOP Python modules | Python · regex/cparser · NetworkX · pybind11 |
+| **[Autonomous Exploration Agent](https://github.com/adwyte/Autonomous-Exploration-Agent)** | Evaluated frontier-based exploration algorithms with obstacle-rich grid worlds | Python · OpenCV · Simulation |
+
+---
+
+### 🛠 Past Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| **KeyStash** | Password management + encryption with Java UI | Java · File Handling · Cryptography |
+| **Fluxion** | Gesture-based device control + SQLite logging | Python · OpenCV · SQLite |
+| **LipSync** | Lip-reading model with 3D-CNN and interactive Streamlit app | Python · OpenCV · Streamlit |
+| **Olist RFM Segmentation** | Customer segmentation & supply chain analytics | Pandas · Matplotlib · Data Viz |
 
 ---
 
@@ -76,17 +88,19 @@
 - Built a **full-stack** Debate Platform with LLM+NLP argument analysis and rebuttals.
 
 ---
-
 ### 🧭 Roadmap
+
 ```mermaid
 timeline
-  title What I'm Focused On
-  section Backend & Systems
-    Observability + CI pipelines : in-progress
-    Async FastAPI + workers     : next
-  section AI/ML
-    Lightweight inference (Edge) : in-progress
-    RAG + structured outputs     : next
+  title Upcoming Projects
+  section Cloud & Backend
+    Observability + CI/CD pipelines : in-progress
+    Cloud-Native Conversational Assistant (RAG + Dashboards) : next
+  section AI/ML & Robotics
+    RL-Enhanced Swarm Intelligence (Drone Navigation) : in-progress
+    Autonomous Exploration Agents : done
+  section Knowledge Graphs
+    Graph RAG Assistant for Manufacturing (AR + Asset Mapping) : queued
   section Projects
-    Digital Twin polish          : in-progress
-    Open-source utilities        : queued
+    Digital Twin Platform polish : in-progress
+    Open-source utilities & toolkits : queued
